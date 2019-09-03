@@ -5,6 +5,7 @@ title: "Data Science Posts by Tags"
 author_profile: true
 header:
   image: "/images/profile_pic.jpg"
+---
 
 {% include group-by-array collection=site.posts field="tags" %}
 
