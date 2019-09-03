@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Dominic van der Pas"
   avatar           : "/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
-  location         : "Swansea"
+  bio              : "BSc Theoretical Physics"
+  location         : "Swansea University"
   email            :
   links:
     - label: "GitHub"
