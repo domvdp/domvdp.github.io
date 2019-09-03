@@ -11,4 +11,4 @@ frameworks such as Django.
 
 I'm seeking a place on a graduate scheme to pursue the role of a data scientist,
 and I intend to learn all relevant languages such as SQL, Hadoop, Spark etc, but
-aim to achieve Python mastery. 
+aim to achieve Python mastery.
