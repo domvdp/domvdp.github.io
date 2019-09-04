@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/profile_pic.jpg"
+  image: "/images/uber3.jpg"
 ---
 
 I'm a final year student studying Theoretical Physics at Swansea University, and
