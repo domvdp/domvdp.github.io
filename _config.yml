@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Dominic van der Pas"
-  avatar           : "/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/linkedin_profile_pic_crop.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "BSc Theoretical Physics"
   location         : "Swansea University"
   email            :
@@ -119,7 +119,7 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dominic-van-der-pas-54754b10b/"
-    - label: "My Website"
+    - label: "Finance Website/Blog"
       icon: "fas fa-fw fa-link"
       url: "https://basicmillion.com"
     - label: "Email"
