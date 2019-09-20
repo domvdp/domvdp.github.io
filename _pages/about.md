@@ -4,11 +4,11 @@ permalink: /about/
 header:
   image: "/images/about.jpg"
 ---
-## Motivations
-The ability to strategically innovate within an organisation whilst also
+*The ability to strategically innovate within an organisation whilst also
 optimising valuable resources, who wouldn't want to engage in harnessing that
-power?
+power?*
 
+## Motivations
 To this aim I am seeking a place on a graduate scheme to
 pursue the role of a data scientist. I look forward to further broadening my
 expertise within essential languages such as SQL, Hadoop, Spark etc, with strong
