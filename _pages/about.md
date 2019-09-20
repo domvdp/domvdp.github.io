@@ -9,10 +9,9 @@ optimising valuable resources, who wouldn't want to engage in harnessing that
 power?*
 
 ## Motivations
-To this aim I am seeking a place on a graduate scheme to
-pursue the role of a data scientist. I look forward to further broadening my
-expertise within essential languages such as SQL, Hadoop, Spark etc, with strong
-emphasis on achieving **Python** mastery.
+I am seeking a place on a graduate scheme to pursue the role of a data
+scientist, and I look forward to further broadening my expertise within
+**Python** as well as other essential languages such as SQL, Hadoop, Spark etc.
 
 I first developed a passion for programming when introduced to MATLAB within an
 engineering context. This passion continued to deepen as I became immersed
