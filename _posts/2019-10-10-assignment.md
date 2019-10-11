@@ -7,4 +7,4 @@ excerpt: "Physics Degree - Python Final Assignment"
 mathjax: "true"
 ---
 
-Content to be uploaded soon...
+<script src="https://gist.github.com/domvdp/9f05c69e65701f1ab005aa8d338007cb.js"></script>
