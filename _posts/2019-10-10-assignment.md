@@ -14,9 +14,9 @@ mathjax: "true"
 <a name="contents"></a>
 # Contents
 - <a href="#question_sheet">Question Sheet</a>
-- <a href="#answers_1">Answers - Section 1</a>
-- <a href="#answers_1">Answers - Section 2</a>
-- <a href="#answers_1">Answers - Section 3</a>
+- <a href="#answers_kapitza_oscillator">Answers - Kapitza Oscillator</a>
+- <a href="#answers_penning_traps">Answers - Penning Traps</a>
+- <a href="#answers_stochastic_oscillator">Answers - Stochastic Oscillator</a>
 
 
 <!------------------------------------------------------------------------------
@@ -35,8 +35,8 @@ Please download the following PDF to view the assigned question sheet below:
 <!------------------------------------------------------------------------------
  ANSWERS 1
 ------------------------------------------------------------------------------->
-<a name="answers_1"></a>
-# 1) Answers - Section 1
+<a name="answers_kapitza_oscillator"></a>
+# 1) Answers - Kapitza Oscillator
 ## 1) Code
 <script src="https://gist.github.com/domvdp/9f05c69e65701f1ab005aa8d338007cb.js"></script>
 ## 1) Stationary Fixing Plot
@@ -50,8 +50,8 @@ Please download the following PDF to view the assigned question sheet below:
 <!------------------------------------------------------------------------------
  ANSWERS 2
 ------------------------------------------------------------------------------->
-<a name="answers_2"></a>
-# 2) Answers - Section 2
+<a name="answers_penning_traps"></a>
+# 2) Answers - Penning Traps
 Note that the code takes a LONG time to run, but it does work!
 ## 2) Code
 <script src="https://gist.github.com/domvdp/7aeb96a37e83a46bcfa28b53c848c4c2.js"></script>
@@ -67,8 +67,8 @@ Note that the code takes a LONG time to run, but it does work!
 <!------------------------------------------------------------------------------
  ANSWERS 3
 ------------------------------------------------------------------------------->
-<a name="answers_3"></a>
-# 3) Answers - Section 3
+<a name="answers_stochastic_oscillator"></a>
+# 3) Answers - Stochastic Oscillator
 ## 3) Code
 <script src="https://gist.github.com/domvdp/b4a2f03bea46448292c244d73c4b5908.js"></script>
 ## 3) Time Domain x(t)
