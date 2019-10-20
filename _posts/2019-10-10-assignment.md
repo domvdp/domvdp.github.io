@@ -2,7 +2,7 @@
 title: "Physics Degree - Python Final Assignment"
 date: 2019-10-10
 header:
-  image: "/images/"
+  image: "/images/physics_assignment.jpg"
 excerpt: "Physics Degree - Python Final Assignment"
 mathjax: "true"
 ---
@@ -37,11 +37,11 @@ Please download the following PDF to view the assigned question sheet below:
 ------------------------------------------------------------------------------->
 <a name="answers_kapitza_oscillator"></a>
 # 1) Answers - Kapitza Oscillator
-## 1) Code
+## 1.1) Code
 <script src="https://gist.github.com/domvdp/9f05c69e65701f1ab005aa8d338007cb.js"></script>
-## 1) Stationary Fixing Plot
+## 1.2) Stationary Fixing Plot
 ![stationary fixing plot](https://user-images.githubusercontent.com/49989128/66696304-bec67b00-ecc2-11e9-97e0-4744c9f1284d.png)
-## 1) Oscillating Fixing Plot
+## 1.3) Oscillating Fixing Plot
 ![oscillating fixing plot](https://user-images.githubusercontent.com/49989128/66696307-c6861f80-ecc2-11e9-90d7-63f710f806a6.png)
 
 <br/>
@@ -53,13 +53,13 @@ Please download the following PDF to view the assigned question sheet below:
 <a name="answers_penning_traps"></a>
 # 2) Answers - Penning Traps
 Note that the code takes a LONG time to run, but it does work!
-## 2) Code
+## 2.1) Code
 <script src="https://gist.github.com/domvdp/7aeb96a37e83a46bcfa28b53c848c4c2.js"></script>
-## 2) Trajectory (x,y)
+## 2.2) Trajectory (x,y)
 ![plot 2](https://user-images.githubusercontent.com/49989128/66696938-92adf880-ecc8-11e9-82ed-b5b37464685d.png)
-## 2) Time-Domain z(t) vs t
+## 2.3) Time-Domain z(t) vs t
 ![plot 3](https://user-images.githubusercontent.com/49989128/66696939-9477bc00-ecc8-11e9-90a8-bda25bac3a2f.png)
-## 2) Motion of the Calcium Ion
+## 2.4) Motion of the Calcium Ion
 ![plot 4](https://user-images.githubusercontent.com/49989128/66696940-96417f80-ecc8-11e9-8cf8-9ff172590773.png)
 
 <br/>
@@ -69,11 +69,11 @@ Note that the code takes a LONG time to run, but it does work!
 ------------------------------------------------------------------------------->
 <a name="answers_stochastic_oscillator"></a>
 # 3) Answers - Stochastic Oscillator
-## 3) Code
+## 3.1) Code
 <script src="https://gist.github.com/domvdp/b4a2f03bea46448292c244d73c4b5908.js"></script>
-## 3) Time Domain x(t)
+## 3.2) Time Domain x(t)
 ![plot 1](https://user-images.githubusercontent.com/49989128/66696905-2a5f1700-ecc8-11e9-9161-0aad93c26d95.png)
-## 3) 2D Histogram in Phase Space
+## 3.3) 2D Histogram in Phase Space
 ![histogram](https://user-images.githubusercontent.com/49989128/66696914-38149c80-ecc8-11e9-95f4-8734f8923445.png)
 
 <br/>
