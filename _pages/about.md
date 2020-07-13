@@ -4,44 +4,13 @@ permalink: /about/
 header:
   image: "/images/about.jpg"
 ---
-*The ability to strategically innovate within an organisation whilst also
+<!--The ability to strategically innovate within an organisation whilst also
 optimising valuable resources, who wouldn't want to engage in harnessing that
-power?*
+power?-->
+**Summary**
 
-
-## Motivations
-I am seeking a place on a graduate scheme to pursue the role of a data
-scientist, and I look forward to further broadening my expertise within
-**Python** as well as other essential languages such as SQL, Hadoop, Spark etc.
-
-I first developed a passion for programming when introduced to **MATLAB** within
-an engineering context. This passion continued to deepen as I became immersed
-within the mathematical applications of Python throughout my Physics degree.
-
-
-## Interests
-With a strong interest in long term investing, I decided to create a financial
-website during the summer of 2019. After briefly using WordPress to achieve
-this, I chose to build the foundation myself by making use of **HTML** and
-**CSS**. I later went on to learn the **Django** framework for Python, allowing
-me to build upon the functionality.
-
-
-## Background
-After obtaining my certificate of higher education (HECert) in Aerospace
-Engineering at Swansea University, I made the transition into Physics to
-satisfy my need for a deeper understanding about how and why things work.
-
-I am currently a final year student studying a Bachelor of Science in
-**Theoretical Physics** at Swansea University. Having averaged 87% in first
-year, and 77% in second year, I am well on track to achieving a
-**first class honours**.
-
-Despite having used Microsoft Word for many years, when I found out that
-**LaTeX** could produce content of higher quality with far more ease, it quickly
-became my go to software for writing neat documents.
-
-
-## Skills
-I have experience with languages such as Python, HTML/CSS, LaTeX, MATLAB, and
-also frameworks such as Django.
+A self-motivated and team-oriented individual with a highly professional and analytical approach, seeking to make a difference
+within the computing industry. Recently graduated with a strong 1st class honours degree in Theoretical Physics, and currently completing two online courses; ‘Harvard University’s
+CS50: Introduction to Computer Science’, and ‘IBM’s Data Science Professional Certificate’. Hobbies include learning Mandarin
+Chinese alongside programming languages, inspired by a personal challenge of travelling alone for 7 weeks in rural
+China 2 years ago. Outside-the-box creative thinker, passionate about software, eager to learn.
